@@ -1,3 +1,3 @@
-# DIO Métodos de estudo 📖
+# DIO estudo 📖
 
-- Repositório feito para guardar a atividades de estudo de métodos da plataforma - > DIO
+- Repositório feito para guardar a atividades de estudo da plataforma DIO
